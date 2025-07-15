@@ -37,7 +37,7 @@ This project is a FullStack web application with a modern architecture. It featu
 
 ### Prerequisites
 - Docker
-- Node.js
+- Javascript
 - Java 21
 - PostgreSQL (optional for local setup)
 
